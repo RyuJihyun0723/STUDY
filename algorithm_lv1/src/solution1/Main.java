@@ -1,13 +1,13 @@
-package algorithm.src.Completion;
+package solution1;
 
 public class Main {
     public static void main(String[] args) {
         String[] participant = {"leo", "kiki", "eden"};
         String[] completion = {"eden", "kiki"};
 
-        Solution c = new Solution();
+        Solution solution = new Solution();
 
-        String result = c.solution(participant, completion);
+        String result = solution.solution(participant, completion);
 
         System.out.println(result);
     }
