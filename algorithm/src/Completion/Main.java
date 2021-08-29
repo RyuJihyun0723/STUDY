@@ -1,11 +1,11 @@
-package algorithm.src.level1;
+package algorithm.src.Completion;
 
 public class Main {
     public static void main(String[] args) {
         String[] participant = {"leo", "kiki", "eden"};
         String[] completion = {"eden", "kiki"};
 
-        Completion c = new Completion();
+        Solution c = new Solution();
 
         String result = c.solution(participant, completion);
 

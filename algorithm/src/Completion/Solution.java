@@ -1,8 +1,8 @@
-package algorithm.src.level1;
+package algorithm.src.Completion;
 
 import java.util.*;
 
-class Completion {
+class Solution {
     public String solution(String[] participant, String[] completion) {
         String answer = "";
         
