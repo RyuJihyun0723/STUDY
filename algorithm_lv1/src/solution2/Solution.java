@@ -1,4 +1,4 @@
-package algorithm.src.year2016;
+package solution2;
 
 class Solution {
     String[] weeks = { "FRI","SAT","SUN","MON","TUE","WED","THU"};
