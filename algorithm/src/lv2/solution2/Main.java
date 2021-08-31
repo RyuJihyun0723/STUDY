@@ -7,7 +7,6 @@ public class Main {
         Solution sol = new Solution();
 
         String result = sol.solution(s);
-
         System.out.println(result);
     }
 }

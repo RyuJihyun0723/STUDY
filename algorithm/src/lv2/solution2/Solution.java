@@ -8,12 +8,11 @@ class Solution {
         String[] arr = s.split(" ");
 
         for(int i = 0; i < arr.length; i++){
-            String str = arr[i];
             
-            if ("".equals(str)) {
-                answer += str;
+            if ("".equals(arr[i])) {
+                answer += arr[i];
             } else {
-                answer += str.substring(0, 1).toUpperCase() + str.substring(1);
+                answer += arr[i].substring(0, 1).toUpperCase() + arr[i].substring(1);
             }
             
             if (i < arr.length - 1)
