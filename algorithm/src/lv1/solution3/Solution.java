@@ -1,4 +1,4 @@
-package lv1.soluton3;
+package lv1.solution3;
 
 class Solution {
     public int solution(int[] absolutes, boolean[] signs) {

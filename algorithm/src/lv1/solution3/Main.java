@@ -1,4 +1,4 @@
-package lv1.soluton3;
+package lv1.solution3;
 
 public class Main {
     public static void main(String[] args) {
