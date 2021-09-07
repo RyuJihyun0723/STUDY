@@ -1,4 +1,4 @@
-package lv1.soluton5;
+package lv1.solution5;
 
 class Solution {
     public int solution(int left, int right) {
