@@ -1,4 +1,4 @@
-package solution36;
+package lv1.solution36;
 
 class Solution {
 	public long solution(long price, long money, long count) {
