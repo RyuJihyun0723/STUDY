@@ -1,4 +1,4 @@
-package solution35;
+package lv1.solution35;
 
 class Solution {
     

@@ -1,4 +1,4 @@
-package solution35;
+package lv1.solution35;
 
 public class Main {
     public static void main(String[] args) {
