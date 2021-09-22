@@ -1,5 +1,3 @@
-package func_10;
-
 import java.util.Scanner;
 
 public class solution1018{
@@ -24,6 +22,7 @@ public class solution1018{
                 }
             }
         }
+        scan.close();
 
         int row = N-7;
         int col = M-7;
