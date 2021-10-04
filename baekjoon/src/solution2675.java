@@ -5,7 +5,7 @@ public class solution2675 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int t = scan.nextInt();
-        ArrayList<String> arr = new ArrayList();
+        ArrayList<String> arr = new ArrayList<>();
 
         for(int i = 0; i < t; i++){
             String r = scan.next();
