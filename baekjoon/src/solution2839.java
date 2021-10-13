@@ -15,7 +15,9 @@ public class solution2839{
                 }
             }
         }
-        
+        if(min == N){
+            min = -1;
+        }
         System.out.println(min);
     }
 }
