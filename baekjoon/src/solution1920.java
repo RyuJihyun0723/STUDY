@@ -21,6 +21,7 @@ public class solution1920 {
             for(int j = 0; j < N; j++){
                 if(arr2[i] == arr1[j]){
                     result = 1;
+                    break;
                 }
             }
             System.out.println(result);
